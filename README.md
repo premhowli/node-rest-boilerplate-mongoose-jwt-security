@@ -8,5 +8,5 @@ Step to run locally:
 * Run 'npm install'
 * Run 'npm start'
 
-If you think this source code is useful, it will be great if you just give it star or just buy me a cup of cofee [![Donate]
+If you think this source code is useful, it will be great if you just give it star or just buy me a cup of cofee [![Donate](http://p-y.tm/zuxXN2or)
 # node-rest-boilerplate-mongoose-jwt-security
